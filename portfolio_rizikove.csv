@@ -1,0 +1,5 @@
+Asset,InitialPrice,InitialWeight,AssetType,CorrelationWithIndex
+Akcie,100,0.7,akcie,0.6
+Dluhopis,100,0.2,dluhopis,0.5
+Zlato,100,0.1,zlato,0.2
+Hotovost,100,0.0,hotovost,0.1

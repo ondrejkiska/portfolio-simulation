@@ -1,0 +1,11 @@
+parametr,hodnota
+pocatecni_hodnota,100000
+pocet_dni,5040
+denni_volatilita,0.02
+transakcni_poplatek,0.01
+rebalancovaci_perioda,63
+zpusob_rebalancovani,kombinovane
+tolerance_vahy,0.05
+inflacni_sazba,0.02
+model,typovy
+sdilena_simulace,true
